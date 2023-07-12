@@ -6,3 +6,9 @@ CMD
 3-git status
 
 4-git add .
+
+5-git commit -m ''add files first.txt and second.txt"
+
+6-git log
+
+7-git add index.txt (as your required file limet)
