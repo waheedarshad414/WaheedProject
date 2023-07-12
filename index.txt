@@ -1,0 +1,8 @@
+CMD
+1-make dir with any name
+
+2-git init 
+
+3-git status
+
+4-git add .
