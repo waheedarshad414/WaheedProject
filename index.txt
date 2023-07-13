@@ -11,4 +11,8 @@ CMD
 
 6-git log
 
-7-git add index.txt (as your required file limet)
+7-git add index.txt (as your required file limit)
+
+git reset
+
+reset --hard
